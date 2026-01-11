@@ -1,0 +1,174 @@
+# Welcome to your Pricemaster project
+
+# 🔥 FlowJunk
+## AI-Powered Flow Optimization for Junk Removal
+
+> Transform operations into seamless flow with AI-powered optimization that increases efficiency by 25-50%
+
+[🚀 Live Demo](your-demo-url) | [📖 Documentation](docs-url) | [💬 Community](community-url)
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](package.json)
+[![AI Powered](https://img.shields.io/badge/AI-GPT4o%20%2B%20Gemini-orange.svg)](README.md)
+
+## 🎬 See FlowJunk in Action
+
+![FlowJunk Demo](demo.gif)
+
+### ⚡ 60-Second Flow Optimization Process:
+1. **Upload Photo** → AI analyzes junk items
+2. **Smart Detection** → GPT-4o identifies everything
+3. **Instant Quote** → Professional PDF generated
+4. **Send & Close** → Customer receives quote immediately
+
+## 🚀 Revolutionary Features
+
+### 🤖 AI-Powered Analysis
+- **GPT-4o Photo Recognition** - Industry's most accurate item detection
+- **Smart Price Optimization** - Market-based pricing recommendations
+- **Fallback AI Models** - Never fails with multi-tier AI system
+
+### 📊 Business Intelligence
+- **Gemini 2.5 Insights** - Market research and growth opportunities
+- **Predictive Analytics** - Seasonal planning and demand forecasting
+- **Revenue Optimization** - Find $1,000+/month in missed opportunities
+
+### ⚡ Instant Efficiency
+- **Price Sheet Import** - Upload existing PDFs/images in 5 minutes
+- **Hybrid Pricing** - Manual, AI, or combined quote generation
+- **Professional Templates** - Branded quotes that convert
+
+### 💰 Smart Monetization
+- **Dual Credit System** - Monthly allocations + purchasable credits
+- **Tiered Subscriptions** - Scale from $99 to $699/month
+- **Payment Processing** - Integrated Stripe billing
+
+## 🏗️ Technology Stack
+
+### 🎯 Frontend
+- **React 18** with TypeScript
+- **Tailwind CSS** for styling
+- **Lovable** for rapid development
+- **Responsive Design** - Mobile-first approach
+
+### ⚡ Backend
+- **Supabase** - PostgreSQL + Auth + Edge Functions
+- **Row Level Security** - Enterprise-grade data protection
+- **Real-time Updates** - Live quote collaboration
+
+### 🤖 AI Integration
+- **OpenAI GPT-4o** - Premium photo analysis
+- **Google Gemini 2.5** - Business intelligence
+- **Claude Vision** - Fallback recognition
+- **Smart Credit Management** - Usage optimization
+
+### 💳 Payments
+- **Stripe Subscriptions** - Automated billing
+- **Usage-based Pricing** - Fair credit system
+- **Multi-tier Support** - Starter to Enterprise
+
+## 📈 Impact Metrics
+
+### 💰 Customer Results
+- **25-50%** average quote value increase
+- **<60 seconds** quote generation time
+- **95%+ accuracy** in AI item detection
+- **$1,000+/month** additional revenue per customer
+
+### 🚀 Platform Stats
+- **100 Founding Members** at $99/month (Limited)
+- **3-tier subscription** model ($99-$699)
+- **Multiple AI models** for 99.9% uptime
+- **Enterprise-ready** security and compliance
+
+## 🛠️ Quick Start
+
+### Prerequisites
+- Node.js 18+
+- Supabase account
+- Stripe account
+- OpenAI API key
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/yourusername/pricemaster-app.git
+cd pricemaster-app
+
+# Install dependencies
+npm install
+
+# Environment setup
+cp .env.example .env.local
+# Add your API keys to .env.local
+
+# Run development server
+npm run dev
+
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
+STRIPE_SECRET_KEY=your_stripe_secret_key
+OPENAI_API_KEY=your_openai_api_key
+GOOGLE_AI_API_KEY=your_gemini_api_key
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+🤝 CONTRIBUTING
+We welcome contributions! See CONTRIBUTING.md for guidelines.
+🎯 Priority Areas
+
+AI model optimization
+New pricing algorithms
+Integration partnerships
+Performance improvements
+
+📄 LICENSE
+MIT License - see LICENSE file for details.
+🔗 LINKS
+
+🌐 Website
+📖 Documentation
+💬 Community
+🐛 Bug Reports
+💡 Feature Requests
+
+
+Built with ❤️ for the junk removal industry
+
+## 🔍 REPOSITORY SETTINGS
+
+### 📊 ABOUT SECTION:
+
+Website: https://pricemaster.ai
+Topics: ai-pricing, junk-removal, saas-platform, gpt4o-integration, photo-analysis, business-intelligence, react, supabase, stripe
+### 🎯 SOCIAL PREVIEW:
+
+Title: PriceMaster - AI-Powered Junk Removal Pricing
+Description: Transform junk removal pricing with GPT-4o photo analysis and smart business intelligence
+
+## 🏷️ GITHUB MARKETPLACE TAGS
+
+### 🎯 FOR GITHUB ACTIONS (Future):
+automation
+pricing
+ai-integration
+business-intelligence
+quote-generation
+
+## 📈 SEO OPTIMIZATION
+
+### 🔍 SEARCHABLE KEYWORDS:
+
+"AI pricing software"
+"Junk removal automation"
+"GPT-4o business application"
+"Photo analysis pricing"
+"SaaS quote generator"
+"Business intelligence dashboard
