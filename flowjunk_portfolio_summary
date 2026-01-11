@@ -1,0 +1,18 @@
+FlowJunk Portfolio Summary:
+
+Attribute	Details
+Type	B2B SaaS for Junk Removal/Field Services
+Role	Full-Stack Developer/Architect
+Timeline	12+ months, Production with active users
+Core Value Prop: AI-powered business OS with instant photo-to-quote generation (<60 seconds, 95%+ accuracy).
+
+Tech Stack: React 18, TypeScript, Supabase (PostgreSQL + Edge Functions), OpenAI GPT-4o, Google Gemini, Stripe, Twilio, Resend.
+
+Key Features Built:
+
+PriceMaster AI Suite (photo → quote)
+Visual Automation Center (n8n-style workflow builder)
+CRM Hub with pipeline visualization
+Multi-tenant architecture with RLS
+Hybrid subscription + usage-based billing
+Skills Demonstrated: React hooks, TypeScript strict mode, PostgreSQL/RLS, Edge Functions, OpenAI integration, prompt engineering, CI/CD, and product strategy.
